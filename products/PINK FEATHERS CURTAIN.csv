@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PINK FEATHERS CURTAIN,20,1.25,25.0,2011,April,Thursday,1 PM,Weekday
+PINK FEATHERS CURTAIN,12,0.79,9.48,2011,September,Friday,9 AM,Weekday
+PINK FEATHERS CURTAIN,20,0.79,15.8,2011,September,Monday,4 PM,Weekday

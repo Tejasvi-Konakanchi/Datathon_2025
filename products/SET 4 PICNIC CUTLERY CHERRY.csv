@@ -1,0 +1,10 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 4 PICNIC CUTLERY CHERRY,1,1.95,1.95,2011,February,Sunday,11 AM,Weekend
+SET 4 PICNIC CUTLERY CHERRY,1,1.95,1.95,2011,February,Sunday,1 PM,Weekend
+SET 4 PICNIC CUTLERY CHERRY,6,1.95,11.7,2011,February,Sunday,3 PM,Weekend
+SET 4 PICNIC CUTLERY CHERRY,10,1.95,19.5,2011,January,Friday,9 AM,Weekday
+SET 4 PICNIC CUTLERY CHERRY,12,1.95,23.4,2011,January,Friday,2 PM,Weekday
+SET 4 PICNIC CUTLERY CHERRY,12,1.95,23.4,2011,January,Sunday,12 PM,Weekend
+SET 4 PICNIC CUTLERY CHERRY,5,1.95,9.75,2011,January,Monday,8 AM,Weekday
+SET 4 PICNIC CUTLERY CHERRY,12,1.95,23.4,2011,December,Monday,10 AM,Weekday
+SET 4 PICNIC CUTLERY CHERRY,12,1.95,23.4,2011,December,Tuesday,12 PM,Weekday

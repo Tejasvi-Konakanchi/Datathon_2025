@@ -1,0 +1,15 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+FLOWERS TILE HOOK,6,2.1,12.6,2010,December,Monday,9 AM,Weekday
+FLOWERS TILE HOOK,1,2.1,2.1,2011,January,Thursday,12 PM,Weekday
+FLOWERS TILE HOOK,1,4.21,4.21,2011,January,Friday,11 AM,Weekday
+FLOWERS TILE HOOK,6,2.1,12.6,2011,January,Thursday,10 AM,Weekday
+FLOWERS TILE HOOK,6,2.1,12.6,2011,January,Friday,3 PM,Weekday
+FLOWERS TILE HOOK,4,2.1,8.4,2011,April,Friday,2 PM,Weekday
+FLOWERS TILE HOOK,2,2.1,4.2,2011,April,Friday,2 PM,Weekday
+FLOWERS TILE HOOK,2,2.1,4.2,2011,April,Thursday,3 PM,Weekday
+FLOWERS TILE HOOK,2,2.1,4.2,2011,June,Tuesday,1 PM,Weekday
+FLOWERS TILE HOOK,1,4.13,4.13,2011,July,Tuesday,4 PM,Weekday
+FLOWERS TILE HOOK,12,0.39,4.68,2011,July,Wednesday,12 PM,Weekday
+FLOWERS TILE HOOK,12,0.39,4.68,2011,July,Friday,1 PM,Weekday
+FLOWERS TILE HOOK,2,0.39,0.78,2011,July,Wednesday,12 PM,Weekday
+FLOWERS TILE HOOK,2,0.39,0.78,2011,July,Monday,11 AM,Weekday

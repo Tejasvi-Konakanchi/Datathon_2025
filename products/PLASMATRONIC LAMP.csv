@@ -1,0 +1,26 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PLASMATRONIC LAMP,2,12.75,25.5,2010,December,Monday,12 PM,Weekday
+PLASMATRONIC LAMP,6,3.95,23.7,2010,December,Wednesday,9 AM,Weekday
+PLASMATRONIC LAMP,12,3.95,47.4,2010,December,Thursday,1 PM,Weekday
+PLASMATRONIC LAMP,6,3.95,23.7,2011,January,Tuesday,12 PM,Weekday
+PLASMATRONIC LAMP,4,12.75,51.0,2011,February,Tuesday,12 PM,Weekday
+PLASMATRONIC LAMP,2,12.75,25.5,2011,August,Sunday,12 PM,Weekend
+PLASMATRONIC LAMP,3,8.29,24.87,2011,August,Tuesday,12 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,August,Tuesday,12 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,September,Friday,9 AM,Weekday
+PLASMATRONIC LAMP,1,12.75,12.75,2011,September,Thursday,12 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,September,Tuesday,4 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,September,Thursday,4 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,September,Wednesday,3 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,September,Friday,5 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,February,Tuesday,4 PM,Weekday
+PLASMATRONIC LAMP,2,8.29,16.58,2011,February,Tuesday,5 PM,Weekday
+PLASMATRONIC LAMP,2,8.29,16.58,2011,January,Wednesday,3 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,January,Monday,3 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,January,Friday,3 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,January,Wednesday,3 PM,Weekday
+PLASMATRONIC LAMP,12,3.95,47.4,2011,December,Monday,11 AM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,December,Monday,5 PM,Weekday
+PLASMATRONIC LAMP,6,3.95,23.7,2011,December,Tuesday,3 PM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,December,Thursday,9 AM,Weekday
+PLASMATRONIC LAMP,1,8.29,8.29,2011,December,Friday,10 AM,Weekday

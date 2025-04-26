@@ -1,0 +1,5 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+A4 WALL TIDY RED FLOWERS,4,0.65,2.6,2011,January,Monday,12 PM,Weekday
+A4 WALL TIDY RED FLOWERS,6,0.53,3.18,2011,February,Wednesday,5 PM,Weekday
+A4 WALL TIDY RED FLOWERS,2,0.53,1.06,2011,February,Sunday,4 PM,Weekend
+A4 WALL TIDY RED FLOWERS,1,0.53,0.53,2011,January,Wednesday,2 PM,Weekday

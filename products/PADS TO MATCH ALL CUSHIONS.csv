@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PADS TO MATCH ALL CUSHIONS,1,0.001,0.001,2011,April,Friday,9 AM,Weekday
+PADS TO MATCH ALL CUSHIONS,1,0.001,0.001,2011,July,Tuesday,10 AM,Weekday
+PADS TO MATCH ALL CUSHIONS,1,0.001,0.001,2011,September,Sunday,2 PM,Weekend

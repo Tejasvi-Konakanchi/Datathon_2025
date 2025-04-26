@@ -1,0 +1,21 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+FROG CANDLE,1,2.51,2.51,2010,December,Friday,11 AM,Weekday
+FROG CANDLE,2,2.51,5.02,2010,December,Tuesday,3 PM,Weekday
+FROG CANDLE,2,1.25,2.5,2010,December,Sunday,2 PM,Weekend
+FROG CANDLE,6,1.25,7.5,2010,December,Tuesday,5 PM,Weekday
+FROG CANDLE,1,1.25,1.25,2011,January,Tuesday,1 PM,Weekday
+FROG CANDLE,12,1.25,15.0,2011,February,Thursday,10 AM,Weekday
+FROG CANDLE,4,1.25,5.0,2011,February,Thursday,7 PM,Weekday
+FROG CANDLE,1,1.25,1.25,2011,February,Monday,12 PM,Weekday
+FROG CANDLE,2,1.25,2.5,2011,February,Thursday,4 PM,Weekday
+FROG CANDLE,1,1.25,1.25,2011,February,Friday,4 PM,Weekday
+FROG CANDLE,6,1.25,7.5,2011,March,Tuesday,1 PM,Weekday
+FROG CANDLE,2,1.25,2.5,2011,March,Friday,11 AM,Weekday
+FROG CANDLE,1,1.25,1.25,2011,April,Sunday,11 AM,Weekend
+FROG CANDLE,5,1.25,6.25,2011,April,Wednesday,12 PM,Weekday
+FROG CANDLE,6,1.25,7.5,2011,April,Wednesday,3 PM,Weekday
+FROG CANDLE,2,1.25,2.5,2011,May,Friday,1 PM,Weekday
+FROG CANDLE,1,1.25,1.25,2011,May,Thursday,1 PM,Weekday
+FROG CANDLE,3,1.25,3.75,2011,May,Thursday,1 PM,Weekday
+FROG CANDLE,1,1.25,1.25,2011,June,Wednesday,5 PM,Weekday
+FROG CANDLE,5,1.25,6.25,2011,July,Wednesday,3 PM,Weekday

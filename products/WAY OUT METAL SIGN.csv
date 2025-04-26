@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+WAY OUT METAL SIGN,1,1.65,1.65,2010,December,Sunday,4 PM,Weekend
+WAY OUT METAL SIGN,1,1.65,1.65,2010,December,Monday,1 PM,Weekday
+WAY OUT METAL SIGN,1,1.65,1.65,2010,December,Wednesday,10 AM,Weekday
+WAY OUT METAL SIGN,2,1.65,3.3,2011,January,Tuesday,1 PM,Weekday
+WAY OUT METAL SIGN,1,1.65,1.65,2011,February,Wednesday,5 PM,Weekday
+WAY OUT METAL SIGN,6,1.65,9.9,2011,February,Thursday,1 PM,Weekday
+WAY OUT METAL SIGN,12,1.65,19.8,2011,February,Monday,12 PM,Weekday
+WAY OUT METAL SIGN,12,1.65,19.8,2011,February,Wednesday,4 PM,Weekday

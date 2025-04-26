@@ -1,0 +1,12 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+TOAST ITS - DINOSAUR,1,1.25,1.25,2010,December,Thursday,3 PM,Weekday
+TOAST ITS - DINOSAUR,3,1.25,3.75,2010,December,Monday,1 PM,Weekday
+TOAST ITS - DINOSAUR,2,1.25,2.5,2010,December,Tuesday,12 PM,Weekday
+TOAST ITS - DINOSAUR,2,1.25,2.5,2010,December,Tuesday,1 PM,Weekday
+TOAST ITS - DINOSAUR,1,1.25,1.25,2010,December,Tuesday,1 PM,Weekday
+TOAST ITS - DINOSAUR,1,1.25,1.25,2010,December,Wednesday,4 PM,Weekday
+TOAST ITS - DINOSAUR,2,1.25,2.5,2010,December,Sunday,2 PM,Weekend
+TOAST ITS - DINOSAUR,1,1.25,1.25,2011,January,Sunday,11 AM,Weekend
+TOAST ITS - DINOSAUR,2,1.25,2.5,2011,January,Sunday,1 PM,Weekend
+TOAST ITS - DINOSAUR,3,1.25,3.75,2011,January,Sunday,3 PM,Weekend
+TOAST ITS - DINOSAUR,1,1.25,1.25,2011,March,Monday,12 PM,Weekday

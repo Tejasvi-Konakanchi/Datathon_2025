@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+HEN HOUSE WITH CHICK STANDING,1,0.42,0.42,2011,April,Monday,4 PM,Weekday
+HEN HOUSE WITH CHICK STANDING,1,0.42,0.42,2011,April,Friday,10 AM,Weekday
+HEN HOUSE WITH CHICK STANDING,12,0.42,5.04,2011,January,Tuesday,8 AM,Weekday

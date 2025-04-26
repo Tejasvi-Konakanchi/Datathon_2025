@@ -1,0 +1,6 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+HALL CABINET WITH 3 DRAWERS,1,49.95,49.95,2010,December,Sunday,4 PM,Weekend
+HALL CABINET WITH 3 DRAWERS,72,32.69,2353.68,2010,December,Tuesday,4 PM,Weekday
+HALL CABINET WITH 3 DRAWERS,1,49.95,49.95,2011,January,Wednesday,11 AM,Weekday
+HALL CABINET WITH 3 DRAWERS,1,100.0,100.0,2011,January,Wednesday,4 PM,Weekday
+HALL CABINET WITH 3 DRAWERS,1,49.95,49.95,2011,February,Thursday,11 AM,Weekday

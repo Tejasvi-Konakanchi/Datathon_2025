@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PINK/YELLOW FLOWERS HANDBAG,6,1.25,7.5,2010,December,Thursday,9 AM,Weekday
+PINK/YELLOW FLOWERS HANDBAG,6,1.25,7.5,2010,December,Wednesday,3 PM,Weekday
+PINK/YELLOW FLOWERS HANDBAG,6,1.25,7.5,2010,December,Wednesday,1 PM,Weekday
+PINK/YELLOW FLOWERS HANDBAG,24,1.25,30.0,2011,January,Tuesday,10 AM,Weekday
+PINK/YELLOW FLOWERS HANDBAG,6,1.25,7.5,2011,February,Tuesday,1 PM,Weekday
+PINK/YELLOW FLOWERS HANDBAG,6,1.25,7.5,2011,February,Tuesday,2 PM,Weekday
+PINK/YELLOW FLOWERS HANDBAG,6,1.25,7.5,2011,February,Monday,12 PM,Weekday
+PINK/YELLOW FLOWERS HANDBAG,46,1.25,57.5,2011,February,Thursday,2 PM,Weekday

@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+BLUE BUNNY EASTER EGG BASKET,12,1.65,19.8,2011,February,Monday,1 PM,Weekday
+BLUE BUNNY EASTER EGG BASKET,1,1.65,1.65,2011,February,Sunday,2 PM,Weekend
+BLUE BUNNY EASTER EGG BASKET,144,1.45,208.8,2011,December,Wednesday,3 PM,Weekday

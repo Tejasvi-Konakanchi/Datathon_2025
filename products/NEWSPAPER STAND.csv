@@ -1,0 +1,6 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+NEWSPAPER STAND,1,14.95,14.95,2010,December,Wednesday,3 PM,Weekday
+NEWSPAPER STAND,1,14.95,14.95,2010,December,Sunday,1 PM,Weekend
+NEWSPAPER STAND,1,29.79,29.79,2010,December,Monday,10 AM,Weekday
+NEWSPAPER STAND,23,9.89,227.47,2010,December,Tuesday,4 PM,Weekday
+NEWSPAPER STAND,1,29.79,29.79,2010,December,Thursday,2 PM,Weekday

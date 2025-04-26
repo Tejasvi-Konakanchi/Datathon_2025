@@ -1,0 +1,15 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,July,Wednesday,1 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,August,Thursday,12 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,September,Friday,12 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,September,Tuesday,10 AM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,September,Thursday,5 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,September,Thursday,10 AM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,September,Thursday,6 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,February,Tuesday,12 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,January,Tuesday,2 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,January,Wednesday,10 AM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,January,Wednesday,11 AM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,January,Thursday,3 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,January,Wednesday,4 PM,Weekday
+PACKING CHARGE,1,7.5,7.5,2011,December,Wednesday,10 AM,Weekday

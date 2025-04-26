@@ -1,0 +1,6 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PINK FLOCK GLASS CANDLEHOLDER,6,1.65,9.9,2010,December,Wednesday,1 PM,Weekday
+PINK FLOCK GLASS CANDLEHOLDER,6,1.65,9.9,2011,February,Sunday,1 PM,Weekend
+PINK FLOCK GLASS CANDLEHOLDER,12,0.38,4.56,2011,April,Wednesday,12 PM,Weekday
+PINK FLOCK GLASS CANDLEHOLDER,8,0.38,3.04,2011,April,Thursday,12 PM,Weekday
+PINK FLOCK GLASS CANDLEHOLDER,6,0.38,2.28,2011,April,Sunday,3 PM,Weekend

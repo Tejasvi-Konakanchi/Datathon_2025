@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+ASSTD RASTA KEY-CHAINS,1,0.42,0.42,2011,January,Sunday,1 PM,Weekend
+ASSTD RASTA KEY-CHAINS,3,0.42,1.26,2011,January,Sunday,2 PM,Weekend
+ASSTD RASTA KEY-CHAINS,5,0.42,2.1,2011,January,Thursday,3 PM,Weekday

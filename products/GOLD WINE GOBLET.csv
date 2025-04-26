@@ -1,0 +1,10 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+GOLD WINE GOBLET,48,0.79,37.92,2011,April,Tuesday,2 PM,Weekday
+GOLD WINE GOBLET,4,0.79,3.16,2011,April,Tuesday,4 PM,Weekday
+GOLD WINE GOBLET,4,0.79,3.16,2011,April,Tuesday,4 PM,Weekday
+GOLD WINE GOBLET,48,0.79,37.92,2011,April,Thursday,12 PM,Weekday
+GOLD WINE GOBLET,24,0.79,18.96,2011,May,Thursday,9 AM,Weekday
+GOLD WINE GOBLET,24,0.79,18.96,2011,May,Wednesday,10 AM,Weekday
+GOLD WINE GOBLET,4,0.79,3.16,2011,May,Wednesday,12 PM,Weekday
+GOLD WINE GOBLET,4,0.79,3.16,2011,May,Wednesday,4 PM,Weekday
+GOLD WINE GOBLET,8,0.79,6.32,2011,June,Thursday,2 PM,Weekday

@@ -1,0 +1,21 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+KEEP CALM WALL ART,6,7.45,44.7,2011,February,Monday,11 AM,Weekday
+KEEP CALM WALL ART,6,7.45,44.7,2011,February,Monday,12 PM,Weekday
+KEEP CALM WALL ART,180,7.45,1341.0,2011,February,Monday,2 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,February,Monday,2 PM,Weekday
+KEEP CALM WALL ART,24,6.98,167.52,2011,February,Monday,3 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,February,Tuesday,8 AM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,February,Tuesday,1 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,February,Wednesday,2 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,February,Tuesday,12 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,February,Monday,1 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,February,Wednesday,10 AM,Weekday
+KEEP CALM WALL ART,6,7.45,44.7,2011,February,Thursday,9 AM,Weekday
+KEEP CALM WALL ART,3,8.25,24.75,2011,February,Thursday,4 PM,Weekday
+KEEP CALM WALL ART,6,7.45,44.7,2011,February,Friday,9 AM,Weekday
+KEEP CALM WALL ART,4,8.25,33.0,2011,February,Friday,2 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,February,Thursday,4 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,January,Friday,2 PM,Weekday
+KEEP CALM WALL ART,12,7.45,89.4,2011,January,Sunday,11 AM,Weekend
+KEEP CALM WALL ART,2,8.25,16.5,2011,January,Friday,5 PM,Weekday
+KEEP CALM WALL ART,2,8.25,16.5,2011,January,Tuesday,9 AM,Weekday

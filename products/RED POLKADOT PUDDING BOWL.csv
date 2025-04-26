@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+RED POLKADOT PUDDING BOWL,1,2.1,2.1,2010,December,Thursday,3 PM,Weekday
+RED POLKADOT PUDDING BOWL,2,2.1,4.2,2010,December,Thursday,3 PM,Weekday
+RED POLKADOT PUDDING BOWL,6,2.1,12.6,2010,December,Monday,3 PM,Weekday
+RED POLKADOT PUDDING BOWL,6,2.1,12.6,2010,December,Thursday,11 AM,Weekday
+RED POLKADOT PUDDING BOWL,2,4.13,8.26,2011,January,Friday,2 PM,Weekday
+RED POLKADOT PUDDING BOWL,12,0.39,4.68,2011,March,Thursday,4 PM,Weekday
+RED POLKADOT PUDDING BOWL,1,0.39,0.39,2011,March,Monday,11 AM,Weekday
+RED POLKADOT PUDDING BOWL,4,0.39,1.56,2011,March,Thursday,7 PM,Weekday

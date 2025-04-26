@@ -1,0 +1,3 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 10 CARDS DECK THE HALLS 16960,1,2.49,2.49,2011,January,Tuesday,5 PM,Weekday
+SET 10 CARDS DECK THE HALLS 16960,1,2.49,2.49,2011,January,Friday,2 PM,Weekday

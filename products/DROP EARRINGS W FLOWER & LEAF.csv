@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+DROP EARRINGS W FLOWER & LEAF,1,2.54,2.54,2010,December,Thursday,2 PM,Weekday
+DROP EARRINGS W FLOWER & LEAF,1,2.54,2.54,2011,January,Tuesday,1 PM,Weekday
+DROP EARRINGS W FLOWER & LEAF,2,2.48,4.96,2011,June,Wednesday,3 PM,Weekday
+DROP EARRINGS W FLOWER & LEAF,1,2.55,2.55,2011,February,Sunday,3 PM,Weekend
+DROP EARRINGS W FLOWER & LEAF,1,2.55,2.55,2011,February,Sunday,3 PM,Weekend
+DROP EARRINGS W FLOWER & LEAF,1,2.55,2.55,2011,January,Friday,1 PM,Weekday
+DROP EARRINGS W FLOWER & LEAF,1,2.48,2.48,2011,December,Monday,5 PM,Weekday
+DROP EARRINGS W FLOWER & LEAF,2,2.48,4.96,2011,December,Friday,10 AM,Weekday

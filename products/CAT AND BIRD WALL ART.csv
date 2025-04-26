@@ -1,0 +1,5 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+CAT AND BIRD WALL ART,240,1.12,268.8,2011,February,Monday,11 AM,Weekday
+CAT AND BIRD WALL ART,18,1.12,20.16,2011,February,Monday,3 PM,Weekday
+CAT AND BIRD WALL ART,6,2.89,17.34,2011,February,Sunday,12 PM,Weekend
+CAT AND BIRD WALL ART,6,2.89,17.34,2011,February,Monday,12 PM,Weekday

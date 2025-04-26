@@ -1,0 +1,8 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+TUSCAN VILLA FEEDING STATION,1,8.25,8.25,2011,February,Tuesday,4 PM,Weekday
+TUSCAN VILLA FEEDING STATION,2,8.25,16.5,2011,February,Sunday,4 PM,Weekend
+TUSCAN VILLA FEEDING STATION,2,8.25,16.5,2011,February,Friday,1 PM,Weekday
+TUSCAN VILLA FEEDING STATION,2,8.25,16.5,2011,February,Wednesday,1 PM,Weekday
+TUSCAN VILLA FEEDING STATION,1,8.25,8.25,2011,February,Thursday,12 PM,Weekday
+TUSCAN VILLA FEEDING STATION,2,8.25,16.5,2011,February,Tuesday,1 PM,Weekday
+TUSCAN VILLA FEEDING STATION,2,8.25,16.5,2011,February,Wednesday,3 PM,Weekday

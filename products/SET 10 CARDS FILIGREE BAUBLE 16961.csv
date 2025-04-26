@@ -1,0 +1,5 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 10 CARDS FILIGREE BAUBLE 16961,1,2.49,2.49,2011,September,Tuesday,6 PM,Weekday
+SET 10 CARDS FILIGREE BAUBLE 16961,1,2.49,2.49,2011,January,Friday,9 AM,Weekday
+SET 10 CARDS FILIGREE BAUBLE 16961,1,2.49,2.49,2011,January,Tuesday,5 PM,Weekday
+SET 10 CARDS FILIGREE BAUBLE 16961,1,2.49,2.49,2011,December,Thursday,9 AM,Weekday

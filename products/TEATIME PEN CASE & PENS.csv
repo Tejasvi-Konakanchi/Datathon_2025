@@ -1,0 +1,18 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+TEATIME PEN CASE & PENS,1,0.85,0.85,2010,December,Thursday,11 AM,Weekday
+TEATIME PEN CASE & PENS,9,0.85,7.65,2010,December,Friday,12 PM,Weekday
+TEATIME PEN CASE & PENS,4,0.85,3.4,2011,February,Wednesday,5 PM,Weekday
+TEATIME PEN CASE & PENS,2,0.85,1.7,2011,March,Thursday,12 PM,Weekday
+TEATIME PEN CASE & PENS,2,0.85,1.7,2011,March,Thursday,12 PM,Weekday
+TEATIME PEN CASE & PENS,5,0.85,4.25,2011,March,Thursday,8 PM,Weekday
+TEATIME PEN CASE & PENS,2,0.85,1.7,2011,April,Friday,11 AM,Weekday
+TEATIME PEN CASE & PENS,2,0.85,1.7,2011,May,Thursday,12 PM,Weekday
+TEATIME PEN CASE & PENS,3,0.85,2.55,2011,May,Tuesday,12 PM,Weekday
+TEATIME PEN CASE & PENS,1,0.85,0.85,2011,June,Friday,2 PM,Weekday
+TEATIME PEN CASE & PENS,1,0.85,0.85,2011,July,Monday,1 PM,Weekday
+TEATIME PEN CASE & PENS,25,0.85,21.25,2011,August,Wednesday,11 AM,Weekday
+TEATIME PEN CASE & PENS,6,0.85,5.1,2011,August,Wednesday,5 PM,Weekday
+TEATIME PEN CASE & PENS,2,0.85,1.7,2011,February,Sunday,4 PM,Weekend
+TEATIME PEN CASE & PENS,1,0.85,0.85,2011,February,Sunday,4 PM,Weekend
+TEATIME PEN CASE & PENS,1,0.85,0.85,2011,January,Monday,11 AM,Weekday
+TEATIME PEN CASE & PENS,1,0.85,0.85,2011,January,Monday,11 AM,Weekday

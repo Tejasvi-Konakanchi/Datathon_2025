@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+YELLOW/BLUE RETRO RADIO,2,2.95,5.9,2011,March,Wednesday,12 PM,Weekday
+YELLOW/BLUE RETRO RADIO,2,2.95,5.9,2011,April,Wednesday,10 AM,Weekday
+YELLOW/BLUE RETRO RADIO,2,2.95,5.9,2011,May,Friday,11 AM,Weekday
+YELLOW/BLUE RETRO RADIO,2,2.95,5.9,2011,July,Wednesday,11 AM,Weekday
+YELLOW/BLUE RETRO RADIO,2,2.95,5.9,2011,January,Thursday,11 AM,Weekday
+YELLOW/BLUE RETRO RADIO,2,2.95,5.9,2011,January,Sunday,12 PM,Weekend
+YELLOW/BLUE RETRO RADIO,3,2.95,8.85,2011,January,Sunday,12 PM,Weekend
+YELLOW/BLUE RETRO RADIO,1,2.95,2.95,2011,December,Tuesday,1 PM,Weekday

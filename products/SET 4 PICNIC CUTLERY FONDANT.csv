@@ -1,0 +1,7 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 4 PICNIC CUTLERY FONDANT,24,1.95,46.8,2011,February,Wednesday,1 PM,Weekday
+SET 4 PICNIC CUTLERY FONDANT,2,1.95,3.9,2011,February,Sunday,11 AM,Weekend
+SET 4 PICNIC CUTLERY FONDANT,10,1.95,19.5,2011,January,Friday,9 AM,Weekday
+SET 4 PICNIC CUTLERY FONDANT,12,1.95,23.4,2011,January,Sunday,12 PM,Weekend
+SET 4 PICNIC CUTLERY FONDANT,5,1.95,9.75,2011,January,Monday,8 AM,Weekday
+SET 4 PICNIC CUTLERY FONDANT,12,1.95,23.4,2011,December,Monday,10 AM,Weekday

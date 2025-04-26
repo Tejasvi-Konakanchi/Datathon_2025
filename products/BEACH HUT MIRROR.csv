@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+BEACH HUT MIRROR,1,4.25,4.25,2011,April,Monday,12 PM,Weekday
+BEACH HUT MIRROR,4,4.25,17.0,2011,May,Wednesday,12 PM,Weekday
+BEACH HUT MIRROR,1,4.25,4.25,2011,May,Thursday,4 PM,Weekday
+BEACH HUT MIRROR,1,4.25,4.25,2011,May,Sunday,4 PM,Weekend
+BEACH HUT MIRROR,1,4.25,4.25,2011,June,Friday,3 PM,Weekday
+BEACH HUT MIRROR,8,0.79,6.32,2011,July,Monday,4 PM,Weekday
+BEACH HUT MIRROR,8,0.79,6.32,2011,July,Wednesday,1 PM,Weekday
+BEACH HUT MIRROR,25,0.79,19.75,2011,July,Sunday,4 PM,Weekend

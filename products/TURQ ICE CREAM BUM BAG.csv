@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+TURQ ICE CREAM BUM BAG,1,5.06,5.06,2010,December,Monday,9 AM,Weekday
+TURQ ICE CREAM BUM BAG,2,5.06,10.12,2010,December,Friday,2 PM,Weekday
+TURQ ICE CREAM BUM BAG,1,2.55,2.55,2010,December,Tuesday,2 PM,Weekday
+TURQ ICE CREAM BUM BAG,6,2.55,15.3,2011,January,Monday,9 AM,Weekday
+TURQ ICE CREAM BUM BAG,1,4.96,4.96,2011,January,Wednesday,4 PM,Weekday
+TURQ ICE CREAM BUM BAG,6,2.55,15.3,2011,January,Thursday,11 AM,Weekday
+TURQ ICE CREAM BUM BAG,1,4.96,4.96,2011,February,Tuesday,3 PM,Weekday
+TURQ ICE CREAM BUM BAG,1,4.96,4.96,2011,February,Friday,10 AM,Weekday

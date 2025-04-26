@@ -1,0 +1,6 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+WRAP SUMMER ROSE DESIGN,25,0.42,10.5,2011,May,Tuesday,10 AM,Weekday
+WRAP SUMMER ROSE DESIGN,25,0.42,10.5,2011,June,Monday,2 PM,Weekday
+WRAP SUMMER ROSE DESIGN,25,0.42,10.5,2011,August,Sunday,12 PM,Weekend
+WRAP SUMMER ROSE DESIGN,25,0.42,10.5,2011,September,Friday,9 AM,Weekday
+WRAP SUMMER ROSE DESIGN,2,0.42,0.84,2011,February,Monday,4 PM,Weekday

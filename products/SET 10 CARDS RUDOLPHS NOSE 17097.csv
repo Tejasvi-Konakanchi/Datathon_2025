@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 10 CARDS RUDOLPHS NOSE 17097,2,2.91,5.82,2011,January,Thursday,3 PM,Weekday
+SET 10 CARDS RUDOLPHS NOSE 17097,1,2.91,2.91,2011,January,Tuesday,5 PM,Weekday
+SET 10 CARDS RUDOLPHS NOSE 17097,1,2.91,2.91,2011,December,Thursday,4 PM,Weekday

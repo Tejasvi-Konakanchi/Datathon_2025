@@ -1,0 +1,5 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+ELEPHANT CLIP W SUCTION CUP,10,0.42,4.2,2011,January,Monday,4 PM,Weekday
+ELEPHANT CLIP W SUCTION CUP,1,0.42,0.42,2011,March,Wednesday,12 PM,Weekday
+ELEPHANT CLIP W SUCTION CUP,3,0.42,1.26,2011,May,Sunday,11 AM,Weekend
+ELEPHANT CLIP W SUCTION CUP,2,0.42,0.84,2011,July,Tuesday,3 PM,Weekday

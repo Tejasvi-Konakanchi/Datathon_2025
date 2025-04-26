@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+BLACK DROP CRYSTAL NECKLACE,1,9.95,9.95,2010,December,Thursday,12 PM,Weekday
+BLACK DROP CRYSTAL NECKLACE,6,2.95,17.7,2011,February,Tuesday,11 AM,Weekday
+BLACK DROP CRYSTAL NECKLACE,6,2.95,17.7,2011,January,Sunday,11 AM,Weekend

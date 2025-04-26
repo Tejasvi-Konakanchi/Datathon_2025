@@ -1,0 +1,3 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+AMAZON FEE,1,13541.33,13541.33,2010,December,Tuesday,3 PM,Weekday
+AMAZON FEE,1,219.76,219.76,2011,March,Monday,11 AM,Weekday

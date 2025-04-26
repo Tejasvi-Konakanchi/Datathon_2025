@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 10 CARDS SCOTTIE DOG 17211,1,2.49,2.49,2011,September,Wednesday,4 PM,Weekday
+SET 10 CARDS SCOTTIE DOG 17211,1,2.49,2.49,2011,September,Friday,5 PM,Weekday
+SET 10 CARDS SCOTTIE DOG 17211,1,2.49,2.49,2011,February,Monday,4 PM,Weekday
+SET 10 CARDS SCOTTIE DOG 17211,1,2.49,2.49,2011,February,Friday,5 PM,Weekday
+SET 10 CARDS SCOTTIE DOG 17211,2,2.49,4.98,2011,February,Monday,3 PM,Weekday
+SET 10 CARDS SCOTTIE DOG 17211,1,2.49,2.49,2011,February,Monday,2 PM,Weekday
+SET 10 CARDS SCOTTIE DOG 17211,1,2.49,2.49,2011,December,Thursday,4 PM,Weekday
+SET 10 CARDS SCOTTIE DOG 17211,1,2.49,2.49,2011,December,Thursday,9 AM,Weekday

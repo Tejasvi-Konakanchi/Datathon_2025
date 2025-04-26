@@ -1,0 +1,6 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+BLUE HANGING GINGHAM EASTER HEN,6,0.42,2.52,2011,January,Thursday,1 PM,Weekday
+BLUE HANGING GINGHAM EASTER HEN,10,0.42,4.2,2011,January,Tuesday,1 PM,Weekday
+BLUE HANGING GINGHAM EASTER HEN,6,0.42,2.52,2011,March,Sunday,1 PM,Weekend
+BLUE HANGING GINGHAM EASTER HEN,4,0.42,1.68,2011,April,Monday,4 PM,Weekday
+BLUE HANGING GINGHAM EASTER HEN,6,0.42,2.52,2011,April,Wednesday,12 PM,Weekday

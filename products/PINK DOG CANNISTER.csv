@@ -1,0 +1,5 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PINK DOG CANNISTER,1,5.95,5.95,2010,December,Monday,3 PM,Weekday
+PINK DOG CANNISTER,2,5.95,11.9,2011,March,Sunday,11 AM,Weekend
+PINK DOG CANNISTER,1,1.95,1.95,2011,April,Monday,11 AM,Weekday
+PINK DOG CANNISTER,10,1.95,19.5,2011,April,Tuesday,2 PM,Weekday

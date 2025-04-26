@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+KIDS CUTLERY DOLLY GIRL,4,4.15,16.6,2011,April,Tuesday,9 AM,Weekday
+KIDS CUTLERY DOLLY GIRL,4,4.15,16.6,2011,May,Friday,12 PM,Weekday
+KIDS CUTLERY DOLLY GIRL,4,4.15,16.6,2011,May,Sunday,11 AM,Weekend
+KIDS CUTLERY DOLLY GIRL,4,4.15,16.6,2011,May,Friday,12 PM,Weekday
+KIDS CUTLERY DOLLY GIRL,4,4.15,16.6,2011,May,Thursday,9 AM,Weekday
+KIDS CUTLERY DOLLY GIRL,4,4.15,16.6,2011,May,Sunday,11 AM,Weekend
+KIDS CUTLERY DOLLY GIRL,4,4.15,16.6,2011,August,Tuesday,10 AM,Weekday
+KIDS CUTLERY DOLLY GIRL,8,4.15,33.2,2011,September,Friday,9 AM,Weekday

@@ -1,0 +1,5 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+BLUE TILED TRAY,1,6.75,6.75,2010,December,Sunday,12 PM,Weekend
+BLUE TILED TRAY,5,6.75,33.75,2011,February,Monday,2 PM,Weekday
+BLUE TILED TRAY,1,6.75,6.75,2011,July,Tuesday,1 PM,Weekday
+BLUE TILED TRAY,1,6.75,6.75,2011,September,Thursday,10 AM,Weekday

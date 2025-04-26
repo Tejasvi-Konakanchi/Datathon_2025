@@ -1,0 +1,5 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 10 CARDS SNOWY SNOWDROPS  17100,1,2.49,2.49,2011,September,Friday,5 PM,Weekday
+SET 10 CARDS SNOWY SNOWDROPS  17100,5,2.49,12.45,2011,January,Wednesday,3 PM,Weekday
+SET 10 CARDS SNOWY SNOWDROPS  17100,1,2.49,2.49,2011,January,Thursday,3 PM,Weekday
+SET 10 CARDS SNOWY SNOWDROPS  17100,1,2.49,2.49,2011,January,Monday,3 PM,Weekday

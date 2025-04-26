@@ -1,0 +1,7 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PINK CLEAR GLASS CANDLE PLATE,1,2.46,2.46,2011,January,Friday,2 PM,Weekday
+PINK CLEAR GLASS CANDLE PLATE,1,2.46,2.46,2011,February,Thursday,6 PM,Weekday
+PINK CLEAR GLASS CANDLE PLATE,6,1.25,7.5,2011,June,Tuesday,3 PM,Weekday
+PINK CLEAR GLASS CANDLE PLATE,12,1.25,15.0,2011,February,Sunday,4 PM,Weekend
+PINK CLEAR GLASS CANDLE PLATE,6,1.25,7.5,2011,February,Sunday,4 PM,Weekend
+PINK CLEAR GLASS CANDLE PLATE,4,1.25,5.0,2011,January,Monday,1 PM,Weekday

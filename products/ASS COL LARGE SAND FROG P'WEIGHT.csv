@@ -1,0 +1,8 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+ASS COL LARGE SAND FROG P'WEIGHT,6,1.05,6.3,2010,December,Friday,11 AM,Weekday
+ASS COL LARGE SAND FROG P'WEIGHT,4,1.05,4.2,2010,December,Sunday,12 PM,Weekend
+ASS COL LARGE SAND FROG P'WEIGHT,4,1.05,4.2,2010,December,Monday,12 PM,Weekday
+ASS COL LARGE SAND FROG P'WEIGHT,4,1.05,4.2,2010,December,Tuesday,1 PM,Weekday
+ASS COL LARGE SAND FROG P'WEIGHT,6,1.05,6.3,2011,January,Wednesday,12 PM,Weekday
+ASS COL LARGE SAND FROG P'WEIGHT,2,1.05,2.1,2011,January,Sunday,12 PM,Weekend
+ASS COL LARGE SAND FROG P'WEIGHT,1,1.05,1.05,2011,January,Wednesday,3 PM,Weekday

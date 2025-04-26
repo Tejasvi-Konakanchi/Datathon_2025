@@ -1,0 +1,6 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 10 CARDS JINGLE BELLS 16957,1,2.49,2.49,2011,September,Wednesday,4 PM,Weekday
+SET 10 CARDS JINGLE BELLS 16957,1,2.49,2.49,2011,February,Thursday,5 PM,Weekday
+SET 10 CARDS JINGLE BELLS 16957,3,2.49,7.47,2011,January,Thursday,3 PM,Weekday
+SET 10 CARDS JINGLE BELLS 16957,1,2.49,2.49,2011,January,Tuesday,5 PM,Weekday
+SET 10 CARDS JINGLE BELLS 16957,2,2.49,4.98,2011,January,Thursday,3 PM,Weekday

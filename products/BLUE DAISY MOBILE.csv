@@ -1,0 +1,13 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+BLUE DAISY MOBILE,24,0.85,20.4,2010,December,Tuesday,12 PM,Weekday
+BLUE DAISY MOBILE,24,0.85,20.4,2011,February,Thursday,12 PM,Weekday
+BLUE DAISY MOBILE,2,0.79,1.58,2011,June,Sunday,11 AM,Weekend
+BLUE DAISY MOBILE,7,0.79,5.53,2011,July,Monday,5 PM,Weekday
+BLUE DAISY MOBILE,2,0.79,1.58,2011,July,Friday,5 PM,Weekday
+BLUE DAISY MOBILE,1,0.79,0.79,2011,August,Wednesday,3 PM,Weekday
+BLUE DAISY MOBILE,72,0.79,56.88,2011,August,Wednesday,1 PM,Weekday
+BLUE DAISY MOBILE,5,0.79,3.95,2011,September,Friday,3 PM,Weekday
+BLUE DAISY MOBILE,10,0.79,7.9,2011,September,Wednesday,5 PM,Weekday
+BLUE DAISY MOBILE,12,0.79,9.48,2011,February,Friday,1 PM,Weekday
+BLUE DAISY MOBILE,12,0.79,9.48,2011,February,Thursday,9 AM,Weekday
+BLUE DAISY MOBILE,1,0.79,0.79,2011,January,Monday,1 PM,Weekday

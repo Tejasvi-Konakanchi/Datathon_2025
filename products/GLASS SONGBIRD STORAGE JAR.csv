@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+GLASS SONGBIRD STORAGE JAR,8,11.15,89.2,2011,June,Tuesday,8 AM,Weekday
+GLASS SONGBIRD STORAGE JAR,1,12.5,12.5,2011,July,Sunday,11 AM,Weekend
+GLASS SONGBIRD STORAGE JAR,2,12.5,25.0,2011,February,Monday,10 AM,Weekday

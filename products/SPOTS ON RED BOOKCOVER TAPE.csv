@@ -1,0 +1,6 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SPOTS ON RED BOOKCOVER TAPE,4,0.42,1.68,2010,December,Monday,1 PM,Weekday
+SPOTS ON RED BOOKCOVER TAPE,3,0.42,1.26,2011,February,Tuesday,10 AM,Weekday
+SPOTS ON RED BOOKCOVER TAPE,4,0.42,1.68,2011,March,Thursday,8 PM,Weekday
+SPOTS ON RED BOOKCOVER TAPE,1,0.42,0.42,2011,March,Sunday,4 PM,Weekend
+SPOTS ON RED BOOKCOVER TAPE,4,0.42,1.68,2011,January,Sunday,1 PM,Weekend

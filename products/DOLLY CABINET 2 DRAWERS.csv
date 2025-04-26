@@ -1,0 +1,20 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,February,Sunday,12 PM,Weekend
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,February,Monday,3 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,February,Thursday,6 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,February,Monday,2 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,February,Friday,1 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,February,Friday,2 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,February,Sunday,4 PM,Weekend
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,January,Thursday,3 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,January,Tuesday,11 AM,Weekday
+DOLLY CABINET 2 DRAWERS,1,12.5,12.5,2011,January,Thursday,6 PM,Weekday
+DOLLY CABINET 2 DRAWERS,1,12.5,12.5,2011,January,Thursday,8 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,January,Monday,2 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,January,Thursday,10 AM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,January,Tuesday,8 AM,Weekday
+DOLLY CABINET 2 DRAWERS,1,12.5,12.5,2011,January,Friday,4 PM,Weekday
+DOLLY CABINET 2 DRAWERS,1,12.5,12.5,2011,January,Wednesday,3 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,December,Thursday,8 AM,Weekday
+DOLLY CABINET 2 DRAWERS,1,12.5,12.5,2011,December,Monday,2 PM,Weekday
+DOLLY CABINET 2 DRAWERS,2,12.5,25.0,2011,December,Thursday,12 PM,Weekday

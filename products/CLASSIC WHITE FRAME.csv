@@ -1,0 +1,17 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+CLASSIC WHITE FRAME,12,2.95,35.4,2010,December,Wednesday,1 PM,Weekday
+CLASSIC WHITE FRAME,1,2.95,2.95,2010,December,Thursday,7 PM,Weekday
+CLASSIC WHITE FRAME,4,2.95,11.8,2010,December,Friday,1 PM,Weekday
+CLASSIC WHITE FRAME,1,2.95,2.95,2010,December,Sunday,10 AM,Weekend
+CLASSIC WHITE FRAME,1,5.91,5.91,2010,December,Monday,10 AM,Weekday
+CLASSIC WHITE FRAME,4,2.95,11.8,2010,December,Wednesday,4 PM,Weekday
+CLASSIC WHITE FRAME,2,2.95,5.9,2010,December,Wednesday,10 AM,Weekday
+CLASSIC WHITE FRAME,3,2.95,8.85,2011,January,Wednesday,1 PM,Weekday
+CLASSIC WHITE FRAME,2,2.95,5.9,2011,January,Monday,11 AM,Weekday
+CLASSIC WHITE FRAME,8,2.95,23.6,2011,January,Monday,1 PM,Weekday
+CLASSIC WHITE FRAME,4,2.95,11.8,2011,January,Monday,1 PM,Weekday
+CLASSIC WHITE FRAME,1,2.95,2.95,2011,January,Tuesday,1 PM,Weekday
+CLASSIC WHITE FRAME,4,2.95,11.8,2011,February,Wednesday,12 PM,Weekday
+CLASSIC WHITE FRAME,1,2.95,2.95,2011,February,Thursday,12 PM,Weekday
+CLASSIC WHITE FRAME,4,2.95,11.8,2011,March,Thursday,6 PM,Weekday
+CLASSIC WHITE FRAME,4,2.95,11.8,2011,April,Tuesday,12 PM,Weekday

@@ -1,0 +1,27 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+S/4 GROOVY CAT MAGNETS,1,3.36,3.36,2010,December,Friday,2 PM,Weekday
+S/4 GROOVY CAT MAGNETS,6,1.65,9.9,2010,December,Wednesday,1 PM,Weekday
+S/4 GROOVY CAT MAGNETS,1,3.36,3.36,2011,January,Friday,11 AM,Weekday
+S/4 GROOVY CAT MAGNETS,1,3.36,3.36,2011,January,Monday,9 AM,Weekday
+S/4 GROOVY CAT MAGNETS,12,1.65,19.8,2011,March,Friday,8 AM,Weekday
+S/4 GROOVY CAT MAGNETS,1,3.29,3.29,2011,March,Tuesday,3 PM,Weekday
+S/4 GROOVY CAT MAGNETS,4,1.65,6.6,2011,March,Thursday,8 PM,Weekday
+S/4 GROOVY CAT MAGNETS,1,3.29,3.29,2011,March,Tuesday,9 AM,Weekday
+S/4 GROOVY CAT MAGNETS,2,1.65,3.3,2011,March,Tuesday,2 PM,Weekday
+S/4 GROOVY CAT MAGNETS,6,1.65,9.9,2011,April,Monday,4 PM,Weekday
+S/4 GROOVY CAT MAGNETS,3,1.65,4.95,2011,April,Sunday,12 PM,Weekend
+S/4 GROOVY CAT MAGNETS,1,1.65,1.65,2011,April,Sunday,12 PM,Weekend
+S/4 GROOVY CAT MAGNETS,12,1.45,17.4,2011,April,Wednesday,2 PM,Weekday
+S/4 GROOVY CAT MAGNETS,2,1.65,3.3,2011,May,Tuesday,1 PM,Weekday
+S/4 GROOVY CAT MAGNETS,1,3.29,3.29,2011,June,Wednesday,5 PM,Weekday
+S/4 GROOVY CAT MAGNETS,1,1.65,1.65,2011,June,Tuesday,12 PM,Weekday
+S/4 GROOVY CAT MAGNETS,36,0.79,28.44,2011,July,Wednesday,10 AM,Weekday
+S/4 GROOVY CAT MAGNETS,24,0.79,18.96,2011,July,Thursday,10 AM,Weekday
+S/4 GROOVY CAT MAGNETS,7,0.79,5.53,2011,July,Sunday,3 PM,Weekend
+S/4 GROOVY CAT MAGNETS,2,0.79,1.58,2011,July,Thursday,12 PM,Weekday
+S/4 GROOVY CAT MAGNETS,4,0.79,3.16,2011,July,Thursday,12 PM,Weekday
+S/4 GROOVY CAT MAGNETS,1,3.29,3.29,2011,July,Friday,4 PM,Weekday
+S/4 GROOVY CAT MAGNETS,12,0.79,9.48,2011,July,Wednesday,10 AM,Weekday
+S/4 GROOVY CAT MAGNETS,1,0.79,0.79,2011,September,Friday,10 AM,Weekday
+S/4 GROOVY CAT MAGNETS,5,0.79,3.95,2011,September,Wednesday,5 PM,Weekday
+S/4 GROOVY CAT MAGNETS,2,0.79,1.58,2011,February,Thursday,12 PM,Weekday

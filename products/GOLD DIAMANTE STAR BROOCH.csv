@@ -1,0 +1,10 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+GOLD DIAMANTE STAR BROOCH,1,5.09,5.09,2010,December,Friday,2 PM,Weekday
+GOLD DIAMANTE STAR BROOCH,1,5.09,5.09,2010,December,Friday,5 PM,Weekday
+GOLD DIAMANTE STAR BROOCH,1,4.98,4.98,2011,February,Wednesday,3 PM,Weekday
+GOLD DIAMANTE STAR BROOCH,2,4.95,9.9,2011,June,Thursday,7 PM,Weekday
+GOLD DIAMANTE STAR BROOCH,1,4.98,4.98,2011,June,Wednesday,3 PM,Weekday
+GOLD DIAMANTE STAR BROOCH,3,4.95,14.85,2011,September,Monday,9 AM,Weekday
+GOLD DIAMANTE STAR BROOCH,1,4.98,4.98,2011,January,Thursday,3 PM,Weekday
+GOLD DIAMANTE STAR BROOCH,1,4.95,4.95,2011,January,Sunday,3 PM,Weekend
+GOLD DIAMANTE STAR BROOCH,1,4.98,4.98,2011,December,Thursday,9 AM,Weekday

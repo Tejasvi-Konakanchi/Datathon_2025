@@ -1,0 +1,7 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+GIFT BAG LARGE SPOT,12,1.25,15.0,2011,August,Thursday,3 PM,Weekday
+GIFT BAG LARGE SPOT,24,1.25,30.0,2011,September,Sunday,4 PM,Weekend
+GIFT BAG LARGE SPOT,12,1.25,15.0,2011,September,Monday,2 PM,Weekday
+GIFT BAG LARGE SPOT,12,1.25,15.0,2011,September,Tuesday,2 PM,Weekday
+GIFT BAG LARGE SPOT,24,1.25,30.0,2011,February,Monday,12 PM,Weekday
+GIFT BAG LARGE SPOT,12,1.25,15.0,2011,February,Monday,12 PM,Weekday

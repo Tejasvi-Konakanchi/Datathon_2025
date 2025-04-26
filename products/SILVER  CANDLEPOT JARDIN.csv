@@ -1,0 +1,10 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SILVER  CANDLEPOT JARDIN,4,3.75,15.0,2010,December,Wednesday,1 PM,Weekday
+SILVER  CANDLEPOT JARDIN,1,3.75,3.75,2010,December,Wednesday,3 PM,Weekday
+SILVER  CANDLEPOT JARDIN,3,3.75,11.25,2010,December,Wednesday,3 PM,Weekday
+SILVER  CANDLEPOT JARDIN,6,3.75,22.5,2010,December,Thursday,3 PM,Weekday
+SILVER  CANDLEPOT JARDIN,4,3.75,15.0,2010,December,Thursday,3 PM,Weekday
+SILVER  CANDLEPOT JARDIN,1,3.75,3.75,2010,December,Sunday,11 AM,Weekend
+SILVER  CANDLEPOT JARDIN,1,3.75,3.75,2011,January,Thursday,3 PM,Weekday
+SILVER  CANDLEPOT JARDIN,2,3.75,7.5,2011,January,Sunday,3 PM,Weekend
+SILVER  CANDLEPOT JARDIN,2,3.75,7.5,2011,January,Sunday,3 PM,Weekend

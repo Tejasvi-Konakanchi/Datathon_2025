@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+DIAMANTE NECKLACE GREEN,2,7.5,15.0,2011,August,Monday,2 PM,Weekday
+DIAMANTE NECKLACE GREEN,1,7.5,7.5,2011,February,Sunday,3 PM,Weekend
+DIAMANTE NECKLACE GREEN,1,7.48,7.48,2011,December,Friday,4 PM,Weekday

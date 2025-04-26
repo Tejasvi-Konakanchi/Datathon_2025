@@ -1,0 +1,5 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 10 CARD SNOWMAN 16965,1,2.49,2.49,2011,February,Thursday,5 PM,Weekday
+SET 10 CARD SNOWMAN 16965,2,2.49,4.98,2011,January,Tuesday,5 PM,Weekday
+SET 10 CARD SNOWMAN 16965,1,2.49,2.49,2011,December,Thursday,4 PM,Weekday
+SET 10 CARD SNOWMAN 16965,1,2.49,2.49,2011,December,Thursday,4 PM,Weekday

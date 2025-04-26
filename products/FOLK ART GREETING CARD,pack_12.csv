@@ -1,0 +1,11 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+"FOLK ART GREETING CARD,pack/12",1,2.95,2.95,2010,December,Friday,12 PM,Weekday
+"FOLK ART GREETING CARD,pack/12",3,2.95,8.85,2011,January,Thursday,12 PM,Weekday
+"FOLK ART GREETING CARD,pack/12",12,2.95,35.4,2011,February,Sunday,1 PM,Weekend
+"FOLK ART GREETING CARD,pack/12",1,2.95,2.95,2011,March,Friday,10 AM,Weekday
+"FOLK ART GREETING CARD,pack/12",1,2.95,2.95,2011,March,Monday,12 PM,Weekday
+"FOLK ART GREETING CARD,pack/12",1,2.95,2.95,2011,June,Friday,3 PM,Weekday
+"FOLK ART GREETING CARD,pack/12",1,2.95,2.95,2011,June,Friday,3 PM,Weekday
+"FOLK ART GREETING CARD,pack/12",1,2.95,2.95,2011,September,Tuesday,12 PM,Weekday
+"FOLK ART GREETING CARD,pack/12",1,2.95,2.95,2011,September,Wednesday,4 PM,Weekday
+"FOLK ART GREETING CARD,pack/12",1,2.95,2.95,2011,February,Sunday,4 PM,Weekend

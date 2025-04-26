@@ -1,0 +1,14 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+FAN BLACK FRAME,5,0.29,1.45,2011,March,Thursday,1 PM,Weekday
+FAN BLACK FRAME,10,0.29,2.9,2011,June,Tuesday,3 PM,Weekday
+FAN BLACK FRAME,1,0.29,0.29,2011,July,Friday,1 PM,Weekday
+FAN BLACK FRAME,3,0.29,0.87,2011,July,Friday,1 PM,Weekday
+FAN BLACK FRAME,20,0.29,5.8,2011,July,Wednesday,10 AM,Weekday
+FAN BLACK FRAME,5,0.29,1.45,2011,July,Wednesday,3 PM,Weekday
+FAN BLACK FRAME,60,0.29,17.4,2011,July,Sunday,1 PM,Weekend
+FAN BLACK FRAME,2,0.29,0.58,2011,August,Wednesday,2 PM,Weekday
+FAN BLACK FRAME,3,0.29,0.87,2011,September,Wednesday,4 PM,Weekday
+FAN BLACK FRAME,10,0.29,2.9,2011,February,Sunday,11 AM,Weekend
+FAN BLACK FRAME,12,0.29,3.48,2011,January,Wednesday,4 PM,Weekday
+FAN BLACK FRAME,10,0.29,2.9,2011,January,Thursday,12 PM,Weekday
+FAN BLACK FRAME,2,0.29,0.58,2011,December,Tuesday,12 PM,Weekday

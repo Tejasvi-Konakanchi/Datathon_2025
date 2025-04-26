@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+NEW BAROQUE BLACK BOXES,1,12.75,12.75,2011,January,Sunday,3 PM,Weekend
+NEW BAROQUE BLACK BOXES,1,12.75,12.75,2011,March,Friday,9 AM,Weekday
+NEW BAROQUE BLACK BOXES,1,12.75,12.75,2011,January,Monday,3 PM,Weekday

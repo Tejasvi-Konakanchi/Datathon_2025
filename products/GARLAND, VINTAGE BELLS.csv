@@ -1,0 +1,11 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+"GARLAND, VINTAGE BELLS",20,2.89,57.8,2011,February,Thursday,10 AM,Weekday
+"GARLAND, VINTAGE BELLS",6,2.89,17.34,2011,February,Thursday,2 PM,Weekday
+"GARLAND, VINTAGE BELLS",6,2.89,17.34,2011,February,Thursday,2 PM,Weekday
+"GARLAND, VINTAGE BELLS",12,2.89,34.68,2011,February,Friday,10 AM,Weekday
+"GARLAND, VINTAGE BELLS",6,2.89,17.34,2011,January,Sunday,11 AM,Weekend
+"GARLAND, VINTAGE BELLS",12,2.89,34.68,2011,January,Thursday,9 AM,Weekday
+"GARLAND, VINTAGE BELLS",12,2.89,34.68,2011,January,Thursday,4 PM,Weekday
+"GARLAND, VINTAGE BELLS",6,2.89,17.34,2011,January,Monday,4 PM,Weekday
+"GARLAND, VINTAGE BELLS",6,2.89,17.34,2011,January,Tuesday,9 AM,Weekday
+"GARLAND, VINTAGE BELLS",6,2.89,17.34,2011,January,Thursday,11 AM,Weekday

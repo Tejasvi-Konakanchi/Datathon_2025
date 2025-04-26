@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET 10 CARDS CHRISTMAS ROBIN 17095,1,2.08,2.08,2011,September,Friday,5 PM,Weekday
+SET 10 CARDS CHRISTMAS ROBIN 17095,1,2.08,2.08,2011,September,Wednesday,4 PM,Weekday
+SET 10 CARDS CHRISTMAS ROBIN 17095,1,2.08,2.08,2011,January,Friday,9 AM,Weekday

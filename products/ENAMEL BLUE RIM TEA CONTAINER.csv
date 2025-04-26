@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+ENAMEL BLUE RIM TEA CONTAINER,6,0.83,4.98,2011,April,Monday,11 AM,Weekday
+ENAMEL BLUE RIM TEA CONTAINER,1,2.1,2.1,2011,April,Sunday,2 PM,Weekend
+ENAMEL BLUE RIM TEA CONTAINER,1,2.1,2.1,2011,April,Monday,2 PM,Weekday

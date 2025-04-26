@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+FROG SOCK PUPPET,1,2.95,2.95,2010,December,Thursday,2 PM,Weekday
+FROG SOCK PUPPET,1,2.95,2.95,2010,December,Monday,12 PM,Weekday
+FROG SOCK PUPPET,1,2.95,2.95,2010,December,Sunday,12 PM,Weekend
+FROG SOCK PUPPET,1,2.95,2.95,2010,December,Monday,2 PM,Weekday
+FROG SOCK PUPPET,6,2.95,17.7,2011,January,Wednesday,1 PM,Weekday
+FROG SOCK PUPPET,3,2.95,8.85,2011,February,Monday,11 AM,Weekday
+FROG SOCK PUPPET,1,2.95,2.95,2011,May,Sunday,12 PM,Weekend
+FROG SOCK PUPPET,1,2.95,2.95,2011,May,Wednesday,5 PM,Weekday

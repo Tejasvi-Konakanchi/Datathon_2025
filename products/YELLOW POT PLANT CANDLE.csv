@@ -1,0 +1,10 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+YELLOW POT PLANT CANDLE,2,3.75,7.5,2011,January,Wednesday,3 PM,Weekday
+YELLOW POT PLANT CANDLE,2,3.75,7.5,2011,January,Friday,2 PM,Weekday
+YELLOW POT PLANT CANDLE,4,2.95,11.8,2011,April,Friday,10 AM,Weekday
+YELLOW POT PLANT CANDLE,8,2.95,23.6,2011,April,Thursday,8 AM,Weekday
+YELLOW POT PLANT CANDLE,1,2.95,2.95,2011,August,Sunday,2 PM,Weekend
+YELLOW POT PLANT CANDLE,2,2.95,5.9,2011,February,Thursday,7 PM,Weekday
+YELLOW POT PLANT CANDLE,2,2.95,5.9,2011,February,Thursday,8 PM,Weekday
+YELLOW POT PLANT CANDLE,1,2.95,2.95,2011,January,Wednesday,2 PM,Weekday
+YELLOW POT PLANT CANDLE,1,2.95,2.95,2011,December,Thursday,11 AM,Weekday

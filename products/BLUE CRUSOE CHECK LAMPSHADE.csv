@@ -1,0 +1,4 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+BLUE CRUSOE CHECK LAMPSHADE,2,0.42,0.84,2011,January,Monday,2 PM,Weekday
+BLUE CRUSOE CHECK LAMPSHADE,6,0.42,2.52,2011,January,Sunday,1 PM,Weekend
+BLUE CRUSOE CHECK LAMPSHADE,1,0.42,0.42,2011,July,Wednesday,11 AM,Weekday

@@ -1,0 +1,6 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+GOLD TEDDY BEAR,1,7.62,7.62,2010,December,Monday,11 AM,Weekday
+GOLD TEDDY BEAR,1,7.62,7.62,2010,December,Friday,5 PM,Weekday
+GOLD TEDDY BEAR,1,7.46,7.46,2011,January,Thursday,9 AM,Weekday
+GOLD TEDDY BEAR,2,3.75,7.5,2011,January,Friday,3 PM,Weekday
+GOLD TEDDY BEAR,10,1.25,12.5,2011,May,Wednesday,1 PM,Weekday

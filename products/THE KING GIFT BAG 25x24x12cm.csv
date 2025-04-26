@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+THE KING GIFT BAG 25x24x12cm,4,0.42,1.68,2011,July,Tuesday,12 PM,Weekday
+THE KING GIFT BAG 25x24x12cm,6,0.42,2.52,2011,July,Wednesday,11 AM,Weekday
+THE KING GIFT BAG 25x24x12cm,4,0.42,1.68,2011,September,Sunday,11 AM,Weekend
+THE KING GIFT BAG 25x24x12cm,2,0.42,0.84,2011,September,Sunday,4 PM,Weekend
+THE KING GIFT BAG 25x24x12cm,5,0.42,2.1,2011,September,Tuesday,11 AM,Weekday
+THE KING GIFT BAG 25x24x12cm,3,0.42,1.26,2011,September,Wednesday,2 PM,Weekday
+THE KING GIFT BAG 25x24x12cm,2,0.42,0.84,2011,January,Sunday,2 PM,Weekend
+THE KING GIFT BAG 25x24x12cm,2,0.42,0.84,2011,January,Sunday,1 PM,Weekend

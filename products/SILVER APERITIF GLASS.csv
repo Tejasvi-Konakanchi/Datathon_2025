@@ -1,0 +1,9 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SILVER APERITIF GLASS,6,2.12,12.72,2010,December,Monday,3 PM,Weekday
+SILVER APERITIF GLASS,6,2.12,12.72,2011,January,Wednesday,10 AM,Weekday
+SILVER APERITIF GLASS,72,0.39,28.08,2011,April,Tuesday,2 PM,Weekday
+SILVER APERITIF GLASS,72,0.39,28.08,2011,April,Thursday,12 PM,Weekday
+SILVER APERITIF GLASS,36,0.39,14.04,2011,May,Thursday,2 PM,Weekday
+SILVER APERITIF GLASS,36,0.39,14.04,2011,May,Tuesday,9 AM,Weekday
+SILVER APERITIF GLASS,36,0.39,14.04,2011,May,Wednesday,10 AM,Weekday
+SILVER APERITIF GLASS,12,0.39,4.68,2011,May,Wednesday,11 AM,Weekday

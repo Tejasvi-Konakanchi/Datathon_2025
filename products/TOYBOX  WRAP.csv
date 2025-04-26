@@ -1,0 +1,24 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2010,December,Sunday,2 PM,Weekend
+TOYBOX  WRAP,25,0.42,10.5,2011,January,Tuesday,2 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,January,Friday,9 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,January,Friday,12 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,January,Monday,11 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,January,Tuesday,9 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,February,Thursday,1 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,February,Friday,12 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,May,Tuesday,12 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,May,Tuesday,1 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,June,Monday,12 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,July,Wednesday,1 PM,Weekday
+TOYBOX  WRAP,200,0.34,68.0,2011,July,Wednesday,3 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,July,Thursday,9 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,July,Sunday,1 PM,Weekend
+TOYBOX  WRAP,1,0.42,0.42,2011,July,Tuesday,10 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,July,Monday,10 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,August,Tuesday,11 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,September,Friday,9 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,September,Tuesday,12 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,February,Friday,12 PM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,January,Wednesday,9 AM,Weekday
+TOYBOX  WRAP,25,0.42,10.5,2011,January,Wednesday,4 PM,Weekday

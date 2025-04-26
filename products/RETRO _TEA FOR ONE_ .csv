@@ -1,0 +1,18 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+"RETRO ""TEA FOR ONE"" ",1,4.95,4.95,2010,December,Thursday,2 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,4.95,4.95,2010,December,Thursday,4 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,4.95,4.95,2011,January,Wednesday,12 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,4.95,4.95,2011,January,Wednesday,3 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,10.79,10.79,2011,January,Wednesday,4 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,4.95,4.95,2011,February,Tuesday,1 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,10.79,10.79,2011,February,Wednesday,12 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",4,4.95,19.8,2011,February,Friday,12 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",2,10.79,21.58,2011,February,Tuesday,2 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,10.79,10.79,2011,February,Thursday,10 AM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,10.79,10.79,2011,February,Monday,6 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,1.95,1.95,2011,March,Thursday,7 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,1.95,1.95,2011,March,Friday,2 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,1.95,1.95,2011,April,Sunday,2 PM,Weekend
+"RETRO ""TEA FOR ONE"" ",1,1.95,1.95,2011,April,Tuesday,1 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,1.95,1.95,2011,April,Monday,1 PM,Weekday
+"RETRO ""TEA FOR ONE"" ",1,1.95,1.95,2011,May,Tuesday,12 PM,Weekday

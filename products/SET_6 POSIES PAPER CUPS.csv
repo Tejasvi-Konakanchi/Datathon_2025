@@ -1,0 +1,17 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+SET/6 POSIES PAPER CUPS,2,0.83,1.66,2011,February,Friday,4 PM,Weekday
+SET/6 POSIES PAPER CUPS,4,0.83,3.32,2011,February,Monday,6 PM,Weekday
+SET/6 POSIES PAPER CUPS,1,0.83,0.83,2011,February,Tuesday,4 PM,Weekday
+SET/6 POSIES PAPER CUPS,4,0.65,2.6,2011,February,Thursday,11 AM,Weekday
+SET/6 POSIES PAPER CUPS,12,0.65,7.8,2011,February,Friday,11 AM,Weekday
+SET/6 POSIES PAPER CUPS,2,0.83,1.66,2011,February,Monday,4 PM,Weekday
+SET/6 POSIES PAPER CUPS,12,0.65,7.8,2011,March,Tuesday,9 AM,Weekday
+SET/6 POSIES PAPER CUPS,24,0.65,15.6,2011,March,Thursday,12 PM,Weekday
+SET/6 POSIES PAPER CUPS,3,0.83,2.49,2011,March,Thursday,4 PM,Weekday
+SET/6 POSIES PAPER CUPS,3,0.83,2.49,2011,March,Tuesday,3 PM,Weekday
+SET/6 POSIES PAPER CUPS,24,0.65,15.6,2011,March,Wednesday,1 PM,Weekday
+SET/6 POSIES PAPER CUPS,7,0.65,4.55,2011,March,Tuesday,12 PM,Weekday
+SET/6 POSIES PAPER CUPS,3,0.19,0.57,2011,April,Monday,1 PM,Weekday
+SET/6 POSIES PAPER CUPS,1,0.19,0.19,2011,April,Thursday,12 PM,Weekday
+SET/6 POSIES PAPER CUPS,12,0.19,2.28,2011,April,Monday,10 AM,Weekday
+SET/6 POSIES PAPER CUPS,27,0.19,5.13,2011,April,Tuesday,2 PM,Weekday

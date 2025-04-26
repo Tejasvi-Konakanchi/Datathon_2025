@@ -1,0 +1,13 @@
+Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2010,December,Tuesday,3 PM,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2010,December,Tuesday,3 PM,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2010,December,Wednesday,10 AM,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2010,December,Wednesday,12 PM,Weekday
+PACK/12 XMAS FUN CARD,2,2.95,5.9,2010,December,Sunday,1 PM,Weekend
+PACK/12 XMAS FUN CARD,12,2.95,35.4,2010,December,Monday,2 PM,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2010,December,Monday,3 PM,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2010,December,Tuesday,12 PM,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2010,December,Sunday,11 AM,Weekend
+PACK/12 XMAS FUN CARD,12,2.95,35.4,2011,July,Tuesday,3 PM,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2011,August,Wednesday,5 PM,Weekday
+PACK/12 XMAS FUN CARD,1,2.95,2.95,2011,September,Monday,4 PM,Weekday
