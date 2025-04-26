@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.google.com/webhp" target="_blank">
-    <img src="./Green%20Minimalist%20Studio%20Banner.png" alt="Datathon 2025 Retail Track" width="800">
+    <img src="./images/Banner.png.png" alt="Datathon 2025 Retail Track" width="800">
   </a>
 </p>
 
