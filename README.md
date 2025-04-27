@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Welcome to our project submission for the 6th DubsTech Datathon! We are revcraft✨!
+Welcome to our project submission for the 6th DubsTech Datathon! We are revcraft✨! Click on the banner above !
 
 ## Project Overview
 
