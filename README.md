@@ -27,18 +27,6 @@ In this project, we focused on answering three main objectives:
 - ProductScore Metric: Developed a formula for ranking products sold
 - Final report:
 
-## Folder Structure
-```
-/Revcraft-Modecraft-Datathon
-│
-├── data/                # Original and cleaned datasets
-├── notebooks/           # Jupyter notebooks with code
-├── visualizations/      # Charts and graphs generated
-├── report/              # Final written report (website)
-├── README.md            # Project overview (this file)
-└── requirements.txt     # Python dependencies (optional)
-```
-
 ## How to View Our Work
 - Full report: See website link.
 - Visualizations: See charts in /visualization folder
