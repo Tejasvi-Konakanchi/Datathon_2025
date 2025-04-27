@@ -5,22 +5,26 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from torch.utils.data import DataLoader, Dataset
 import tqdm
+import pyarrow as pa
 
-# Load your dataset
-df = pd.read_csv("RetailData.csv", dtype={"InvoiceNo": "string", "StockCode": "string","Description": "string", "Quantity": int, "UnitPrice": float, "Country": "string", "Revenue": float, "Year": "string", "Month": "string", "DayOfWeek": "string", "Hour": "string", "Year": "string", "Weekday": "string"})
+from datasets import Dataset
 
-df['Hour'] = df['Hour'].astype(int).apply(
-    lambda hour: (
-        "12 AM" if hour == 0 else
-        f"{hour} AM" if hour < 12 else
-        "12 PM" if hour == 12 else
-        f"{hour - 12} PM"
-    )
-)
+# Read the original CSV file
+df = pd.read_csv('Mode_Craft_Ecommerce_Data - Online_Retail.csv')  # Replace 'input_file.csv' with your actual file name
 
-df['DayOfWeek'] = df['DayOfWeek'].astype(int).apply(
-    lambda day: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'][day]
-)
+# Convert the datetime column to datetime objects (adjust the format if necessary)
+df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'], format='%m/%d/%y %H:%M')
+
+# Create new columns for the date and time
+df['date'] = df['InvoiceDate'].dt.strftime('%m/%d/20%y')
+df['time'] = df['InvoiceDate'].dt.strftime('%I:%M %p')
+
+# Save the updated DataFrame with the new columns to a new CSV file
+df.to_csv('CleanedData.csv', index=False)
+
+print("CSV file with new date and time columns saved successfully!")
+
+# Load the training dataset to get the descriptions
 
 df.to_csv('CleanedData.csv', index=False)
 
@@ -39,7 +43,6 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
 # Prepare the dataset using Hugging Face datasets library
-from datasets import Dataset
 dataset = Dataset.from_dict({"description": descriptions})
 
 # Define the candidate labels (these should match the categories you trained on)

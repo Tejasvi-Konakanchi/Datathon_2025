@@ -1,8 +1,0 @@
-Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
-"BUNTING , SPOTTY ",60,4.15,249.0,2011,May,Friday,10 AM,Weekday
-"BUNTING , SPOTTY ",50,4.15,207.5,2011,May,Wednesday,12 PM,Weekday
-"BUNTING , SPOTTY ",9,4.95,44.55,2011,May,Friday,2 PM,Weekday
-"BUNTING , SPOTTY ",3,4.95,14.85,2011,May,Sunday,11 AM,Weekend
-"BUNTING , SPOTTY ",12,4.95,59.4,2011,May,Monday,2 PM,Weekday
-"BUNTING , SPOTTY ",6,4.95,29.7,2011,May,Thursday,10 AM,Weekday
-"BUNTING , SPOTTY ",6,4.95,29.7,2011,June,Friday,9 AM,Weekday

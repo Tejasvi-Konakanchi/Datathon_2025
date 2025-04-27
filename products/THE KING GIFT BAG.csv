@@ -1,9 +1,0 @@
-Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
-THE KING GIFT BAG,1,0.65,0.65,2011,January,Tuesday,2 PM,Weekday
-THE KING GIFT BAG,3,0.65,1.95,2011,June,Friday,11 AM,Weekday
-THE KING GIFT BAG,2,0.65,1.3,2011,June,Sunday,12 PM,Weekend
-THE KING GIFT BAG,1,0.65,0.65,2011,July,Thursday,6 PM,Weekday
-THE KING GIFT BAG,2,0.65,1.3,2011,July,Sunday,11 AM,Weekend
-THE KING GIFT BAG,1,0.65,0.65,2011,August,Tuesday,3 PM,Weekday
-THE KING GIFT BAG,2,0.65,1.3,2011,September,Sunday,4 PM,Weekend
-THE KING GIFT BAG,8,0.65,5.2,2011,September,Tuesday,11 AM,Weekday

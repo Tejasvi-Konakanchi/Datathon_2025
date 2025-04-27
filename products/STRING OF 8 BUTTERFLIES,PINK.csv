@@ -1,8 +1,0 @@
-Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
-"STRING OF 8 BUTTERFLIES,PINK",4,1.65,6.6,2010,December,Sunday,1 PM,Weekend
-"STRING OF 8 BUTTERFLIES,PINK",1,1.65,1.65,2010,December,Monday,2 PM,Weekday
-"STRING OF 8 BUTTERFLIES,PINK",2,1.65,3.3,2010,December,Friday,11 AM,Weekday
-"STRING OF 8 BUTTERFLIES,PINK",3,1.65,4.95,2010,December,Tuesday,1 PM,Weekday
-"STRING OF 8 BUTTERFLIES,PINK",6,1.65,9.9,2011,January,Friday,2 PM,Weekday
-"STRING OF 8 BUTTERFLIES,PINK",6,1.65,9.9,2011,January,Sunday,1 PM,Weekend
-"STRING OF 8 BUTTERFLIES,PINK",3,1.65,4.95,2011,January,Sunday,1 PM,Weekend

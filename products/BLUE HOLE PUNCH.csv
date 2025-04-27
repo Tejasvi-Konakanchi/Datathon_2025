@@ -1,8 +1,0 @@
-Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
-BLUE HOLE PUNCH,2,1.25,2.5,2011,March,Monday,5 PM,Weekday
-BLUE HOLE PUNCH,1,1.25,1.25,2011,May,Sunday,12 PM,Weekend
-BLUE HOLE PUNCH,1,1.25,1.25,2011,July,Sunday,1 PM,Weekend
-BLUE HOLE PUNCH,2,1.25,2.5,2011,September,Monday,4 PM,Weekday
-BLUE HOLE PUNCH,3,1.25,3.75,2011,February,Tuesday,5 PM,Weekday
-BLUE HOLE PUNCH,1,1.25,1.25,2011,February,Friday,5 PM,Weekday
-BLUE HOLE PUNCH,3,1.25,3.75,2011,February,Sunday,3 PM,Weekend

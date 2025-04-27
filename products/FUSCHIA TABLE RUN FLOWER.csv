@@ -1,6 +1,0 @@
-Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
-FUSCHIA TABLE RUN FLOWER,2,3.75,7.5,2011,February,Thursday,2 PM,Weekday
-FUSCHIA TABLE RUN FLOWER,2,1.25,2.5,2011,April,Wednesday,12 PM,Weekday
-FUSCHIA TABLE RUN FLOWER,1,1.25,1.25,2011,May,Sunday,11 AM,Weekend
-FUSCHIA TABLE RUN FLOWER,12,1.25,15.0,2011,May,Tuesday,10 AM,Weekday
-FUSCHIA TABLE RUN FLOWER,10,1.25,12.5,2011,June,Wednesday,10 AM,Weekday

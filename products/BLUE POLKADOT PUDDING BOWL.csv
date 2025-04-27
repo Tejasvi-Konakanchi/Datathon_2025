@@ -1,9 +1,0 @@
-Description,Quantity,UnitPrice,Revenue,Year,Month,DayOfWeek,Hour,Weekday
-BLUE POLKADOT PUDDING BOWL,1,2.1,2.1,2010,December,Thursday,3 PM,Weekday
-BLUE POLKADOT PUDDING BOWL,2,2.1,4.2,2010,December,Thursday,3 PM,Weekday
-BLUE POLKADOT PUDDING BOWL,6,2.1,12.6,2010,December,Sunday,3 PM,Weekend
-BLUE POLKADOT PUDDING BOWL,6,2.1,12.6,2010,December,Monday,3 PM,Weekday
-BLUE POLKADOT PUDDING BOWL,1,2.1,2.1,2010,December,Thursday,11 AM,Weekday
-BLUE POLKADOT PUDDING BOWL,1,0.39,0.39,2011,March,Sunday,1 PM,Weekend
-BLUE POLKADOT PUDDING BOWL,6,0.39,2.34,2011,March,Thursday,1 PM,Weekday
-BLUE POLKADOT PUDDING BOWL,6,0.39,2.34,2011,March,Monday,12 PM,Weekday
