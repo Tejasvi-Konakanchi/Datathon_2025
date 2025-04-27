@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Welcome to our project submission for the 6th DubsTech Datathon! We are revcraft✨!
+Welcome to our project submission for the 6th DubsTech Datathon! We are revcraft✨! Click on the banner above !
 
 ## Project Overview
 
@@ -21,29 +21,30 @@ In this project, we focused on answering three main objectives:
 - Data Processing: Python
 - Data Visualization: Tableau
 - Metric Creation: Custom Formula
+- Report: HTML, CSS, Git Hub, Canva
 
 ## Key Deliverables
 - Cleaned Data: Removing duplicates, blank entries, unavilable entries; generated new columns for metrics.
 - ProductScore Metric: Developed a formula for ranking products sold
-- Final report:
+- Final report: Click on the banner above or access, <a href="https://tejasvi-konakanchi.github.io/Datathon_2025/" target="_blank">https://tejasvi-konakanchi.github.io/Datathon_2025/</a>
 
 ## How to View Our Work
-- Full report: See website link.
-- Visualizations: See charts in /visualization folder
-- Code Notebooks: Explore analysis in yuh folder
+- Full report: https://tejasvi-konakanchi.github.io/Datathon_2025/
+- Visualizations: See charts in twb files
+- NOTE: ADD STUFF HERE, IF WE NEED ANYTHING ELSE
 
 
 ## Important Notes
 - All work was completed within the DubsTech Datathon timeframe.
-- No pre-existing work or external code bases used.
+- NOTE: INCLUDE ALL OF THE LIBRARIES THAT WE USED
 - Dataset was provided by ModeCraft(via competition organizers).
 
 ## Contact
 For any questions, feel free to reach out to the respective role:
 
 #### Team RevCraft
-- Tejasvi Konakanchi - Data Analyst and Business Insights - [tkonak@uw.edu](mailto:tkonak@uw.edu)!
-- Neil Bhalla - Data Visualization and Modelling - [neilb5@uw.edu](mailto:neilb5@uw.edu)!
+- Geith Amum - Machine Learning and Data Visualization - [geithamum1@gmail.com](geithamum1@gmail.com)!
+- Tejasvi Konakanchi - Data Analysis, Project Management and Business Insights - [tkonak@uw.edu](mailto:tkonak@uw.edu)!
+- Neil Bhalla - Data Analysis and Data Visualization - [neilb5@uw.edu](mailto:neilb5@uw.edu)!
 - Trinity Kwon - Report Writing and Documentation - [trinik4@uw.edu](mailto:trinik4@uw.edu)!
-- Geith Amum - Data Visualization and Statistical Analysis - [geithamum1@gmail.com](geithamum1@gmail.com)!
-- Nathan Dang - Data Visualization, and Data Analysis - [natd0703@uw.edu](natd0703@uw.edu)!
+- Nathan Dang - Data Analysis and Documentation - [natd0703@uw.edu](natd0703@uw.edu)!
