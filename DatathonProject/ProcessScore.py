@@ -1,53 +1,75 @@
 import pandas as pd
-from scipy.stats import linregress
+from sklearn.linear_model import LinearRegression
 
-# Load your CSV
+# Read the data from CSV (replace this with your actual CSV path)
 df = pd.read_csv('CleanedData.csv')
 
-# Assume there's a 'month_year' column like '2024-01', '2024-02', etc.
-# If it's in another format, convert it to strings like 'YYYY-MM'
+# Dictionary to map month names to numbers
+month_dict = {
+    'January': '01', 'February': '02', 'March': '03', 'April': '04', 'May': '05', 'June': '06',
+    'July': '07', 'August': '08', 'September': '09', 'October': '10', 'November': '11', 'December': '12'
+}
 
-# Group by product and month_year
-grouped = df.groupby(['Description', 'month_year'])
+# Ensure 'Year' and 'Month' are in string format (in case they are not)
+df['Year'] = df['Year'].astype(str)
+df['Month'] = df['Month'].astype(str)
 
-# Calculate total revenue per product per month (you may already have this)
-monthly_revenue = grouped['revenue'].sum().reset_index()
+# Convert month names to numbers
+df['Month'] = df['Month'].map(month_dict)
 
-# Create a dictionary to store slopes for each product
-slopes = {}
+# Combine 'Year' and 'Month' into a single 'month_year' column in 'YYYY-MM' format
+df['month_year'] = df['Year'] + '-' + df['Month']
 
-# Now, calculate the slope for each product based on their monthly revenue
-for product_id, group in monthly_revenue.groupby('Description'):
-    # Convert 'month_year' to numerical values
-    group['month_num'] = range(len(group))  # e.g., 0, 1, 2, ...
+# Convert 'month_year' to datetime format
+df['month_year'] = pd.to_datetime(df['month_year'], format='%Y-%m')
 
-    # Perform linear regression to calculate the slope (month_num vs revenue)
-    regression = linregress(group['month_num'], group['revenue'])
-    slopes[product_id] = regression.slope
+# Check the result by printing the first few rows
+print(df[['Year', 'Month', 'month_year']].head())
 
-# Max absolute slope for normalization
-max_abs_slope = max(abs(s) for s in slopes.values()) or 1  # Avoid division by 0
+# --- Popularity Score Calculations ---
+# Step 1: Calculate total revenue for each product
+product_revenue = df.groupby('Description')['Revenue'].sum().reset_index()
 
-# Calculate final scores for each product
-scores = []
-alpha = 0.7
-beta = 0.3
+# Step 2: Calculate the number of unique customers for each product
+unique_customers = df.groupby('Description')['CustomerID'].nunique().reset_index()
+unique_customers = unique_customers.rename(columns={'CustomerID': 'UniqueCustomers'})
 
-# Group by product to calculate the scores
-for product_id, group in df.groupby('product_id'):
-    total_revenue = group['revenue'].sum()
-    unique_customers = group['customer_id'].nunique()
+# Step 3: Calculate the slope (trend) for each product using linear regression
+def calculate_slope(product_df):
+    # Create a numerical representation of time (e.g., number of months)
+    product_df['MonthIndex'] = pd.to_datetime(product_df['month_year']).apply(
+        lambda x: x.month + 12 * (x.year - product_df['month_year'].min().year)
+    )
+    
+    # Perform a linear regression (Revenue as the dependent variable, MonthIndex as independent)
+    X = product_df['MonthIndex'].values.reshape(-1, 1)
+    y = product_df['Revenue'].values
+    model = LinearRegression()
+    model.fit(X, y)
+    
+    return model.coef_[0]  # Return the slope
+print(product_revenue.columns)
+print(unique_customers.columns)
 
-    slope = slopes.get(product_id, 0)  # Get slope for the product (default 0 if not found)
+# Apply the slope calculation to each product
+product_slope = df.groupby('Description').apply(calculate_slope).reset_index(name='Slope')
 
-    # Normalize the slope (to be between -1 and 1)
-    normalized_slope = slope / max_abs_slope
+# Step 4: Merge all the information into one DataFrame
+product_data = pd.merge(product_revenue, unique_customers, on='Description')
+product_data = pd.merge(product_data, product_slope, on='Description')
 
-    # Calculate the score
-    score = (total_revenue ** alpha) * (unique_customers ** beta) * (1 + normalized_slope)
+# Step 5: Calculate the popularity score using the formula
+product_data['popularity_score'] = product_data['Revenue'] * (1.1 ** product_data['UniqueCustomers']) * product_data['Slope']
 
-    scores.append({'product_id': product_id, 'score': score})
+# Step 6: Print the results
+print(product_data[['Description', 'popularity_score']])
 
-# Create a DataFrame to hold the scores and save to CSV
-scores_df = pd.DataFrame(scores)
-scores_df.to_csv('product_scores.csv', index=False)
+# Optionally, save the final DataFrame to a new CSV
+product_data.to_csv('Product_Popularity_Scores.csv', index=False)
+
+# --- Additional Analysis ---
+# Grouping by month_year and calculating total revenue for each month
+monthly_revenue = df.groupby('month_year')['Revenue'].sum().reset_index()
+
+# Print the grouped results
+print(monthly_revenue.head())
