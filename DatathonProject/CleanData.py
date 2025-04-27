@@ -99,11 +99,7 @@ os.makedirs('products', exist_ok=True)
 os.makedirs('countries', exist_ok=True)
 
 # Select certain columns to save
-selected_columns = [
-    'Description', 'Quantity', 'UnitPrice', 
-    'Revenue', 'Year', 'Month', 
-    'DayOfWeek', 'Hour', 'Weekday'
-]
+selected_columns = ['InvoiceNo','StockCode','Description','Quantity','InvoiceDate','UnitPrice','CustomerID','Country','date','time','Predicted_Category']
 
 # Save product-specific CSVs
 for description, product_df in cdf.groupby('Description'):
