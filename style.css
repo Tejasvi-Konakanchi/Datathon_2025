@@ -1,0 +1,149 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+.intro-text {
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.section-title {
+    color: #2c3e50;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+
+.main-header {
+    background-color: #2c3e50;
+    padding: 40px 0;
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.main-header h1 {
+    color: white;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.header-subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    margin: 0;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Header Attribution Styles */
+.header-attribution {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 20px;
+}
+
+.header-attribution span {
+    display: inline-block;
+}
+
+/* Update Section Styles */
+.update-section {
+    background-color: #bff128;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+.update-title {
+    color: #2c3e50;
+    margin-top: 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.update-content p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+/* Analysis Section Styles */
+.analysis-section {
+    background-color: #f9fafb;
+    padding: 40px 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    margin: 40px 0;
+}
+
+.analysis-intro {
+    margin-bottom: 30px;
+    max-width: 800px;
+}
+
+.strategy-list {
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.strategy-list li {
+    margin-bottom: 10px;
+}
+
+/* Tableau Container */
+.tableau-container {
+    margin: 40px 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.tableau-placeholder {
+    background-color: #fff;
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.visualization-note {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    padding: 10px;
+    background-color: #f5f5f5;
+}
