@@ -1,7 +1,7 @@
 # RevCraft Consulting Report: Data Driven Strategies to Accelerate Modecraft's Ecommerce Revenue
 
 <p align="center">
-  <a href="https://www.google.com/webhp" target="_blank">
+  <a href="https://tejasvi-konakanchi.github.io/Datathon_2025/" target="_blank">
     <img src="./images/Banner.png" alt="Datathon 2025 Retail Track" width="800">
   </a>
 </p>
