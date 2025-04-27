@@ -25,13 +25,9 @@ df.to_csv('CleanedData.csv', index=False)
 print("CSV file with new date and time columns saved successfully!")
 
 # Load the training dataset to get the descriptions
-
-df.to_csv('CleanedData.csv', index=False)
-
-# Load the training dataset to get the descriptions
 cdf = pd.read_csv("CleanedData.csv", dtype={"InvoiceNo": "string", "StockCode": "string","Description": "string", "Quantity": int, "UnitPrice": float, "Country": "string", "Revenue": float, "Year": "string", "Month": "string", "DayOfWeek": "string", "Hour": "string", "Year": "string", "Weekday": "string"})
 
-descriptions = cdf['Description']
+descriptions = cdf['Description'].fillna("").tolist()
 
 # Load the trained model and tokenizer
 model_path = './trained_model'  # Adjust this path to where your model is saved
@@ -40,6 +36,7 @@ model = AutoModelForSequenceClassification.from_pretrained(model_path)
 
 # Ensure the model is on the correct device (GPU if available, else CPU)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 model.to(device)
 
 # Prepare the dataset using Hugging Face datasets library
