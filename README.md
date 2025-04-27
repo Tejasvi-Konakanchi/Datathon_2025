@@ -20,23 +20,19 @@ In this project, we focused on answering three main objectives:
 ## Methods and Tools Used
 - Data Processing: Python
 - Data Visualization: Tableau
-- Metric Creation: Custom Formula
 - Report: HTML, CSS, Git Hub, Canva
 
 ## Key Deliverables
 - Cleaned Data: Removing duplicates, blank entries, unavilable entries; generated new columns for metrics.
-- ProductScore Metric: Developed a formula for ranking products sold
 - Final report: Click on the banner above or access, <a href="https://tejasvi-konakanchi.github.io/Datathon_2025/" target="_blank">https://tejasvi-konakanchi.github.io/Datathon_2025/</a>
 
 ## How to View Our Work
 - Full report: https://tejasvi-konakanchi.github.io/Datathon_2025/
 - Visualizations: See charts in twb files
-- NOTE: ADD STUFF HERE, IF WE NEED ANYTHING ELSE
 
 
 ## Important Notes
 - All work was completed within the DubsTech Datathon timeframe.
-- NOTE: INCLUDE ALL OF THE LIBRARIES THAT WE USED
 - Dataset was provided by ModeCraft(via competition organizers).
 
 ## Contact
