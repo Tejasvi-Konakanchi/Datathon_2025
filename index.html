@@ -3,60 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modecraft Data Analysis</title>
+    <title>REVCRAFT - Data Analytics for Revenue</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header class="main-header">
-        <div class="container">
-            <h1>ModeCraft</h1>
-            <p class="header-subtitle">Analysis report for ecommerce store with the aim of increasing revenue and profits.</p>
-            <div class="header-attribution">
-                <span class="attribution-text">2025 DubsTech Datathon</span>
-                <span class="attribution-names">Neil Bhalla, Geith Amum, Tejasvi Konakanchi, Nathan Dang, Trinity Kwon</span>
-            </div>
-        </div>
-    </header>
-
-    <div class="container">
-        <section class="update-section">
-            <div class="update-content">
-                <p>ModeCraft have collected and processed over 500,000  orders for a diverse global clientele as a business 
-                    and now want us to review their data and provide them with business recommendations. Our team has created
-                    multiple data-visualization dashboards for our client to understand their seasonal revenue at a glance.</p>
-            </div>
-        </section>
-    </div>
+    <!-- Hero Section -->
+    <section class="dark-bg hero">
+        <h1>REVCRAFT</h1>
+        <p>DATA ANALYTICS FOR REVENUE</p>
+        <h2>DATATHON 2025</h2>
+    </section>
     
-    <!-- Quantity and Profits Section -->
-    <section class="analysis-section">
-        <div class="container">
-            <h1 class="section-title">Revenue Cycle</h1>
+    <!-- Analysis Goals -->
+    <section>
+        <h2>ANALYSIS GOALS</h2>
+        <p>Our proposal based on the data analysis focuses on maximizing ModeCraft's seasonal revenue through:</p>
+        
+        <div class="goals-container">
+            <h3>01 Analyzing Revenue Cycles, High performance products</h3>
+            <h3>02 Analyzing weekly and hourly sales patterns</h3>
+            <h3>03 Identifying Geographic demand, and evaluate potential expansion plans</h3>
+        </div>
+    </section>
+    
+    <!-- Analysis 01 - Revenue Cycle -->
+    <section class="light-bg">
+        <div class="analysis">
+            <h2>ANALYSIS 01 - REVENUE CYCLE</h2>
+            <p><em>DEC 2010 - DEC 2011</em></p>
             
-            <div class="analysis-intro">
-                <p>Question: Is there any seasonality in purchases for certain products?</p>
-                
-                <p>Observation:</p>
-                    <ol class="strategy-list">
-                        <li>ModeCraft has the highest revenue in winter at the beginning of the year.</li>
-                        <li>During this season there were huge spikes in revenue - peaking over 2 million and 1.7 million, respectively.</li>
-                        <li>Other months falter in comparison, hovering around 600K-800K.</li>
-                    </ol>
-                    
-                <p>Conclusion: Certain products show clear seasonality, raking up the revenue.</p>    
-                    
-                    
-                    
-                <p>Business Strategy proposed:
-                <ol class="strategy-list">
-                    <li>Launch major marketing campaign starting late December (sales promotions, gift cards).</li>
-                    <li>Stock up on top-performing products heavily (like the ones that dominated the charts this year).</li>
-                    <li>Offer limited-time bundles relevant to the top performing product to capitalize on holiday shopping enthusiasm</li>
-                </ol>
-                </p>
+            <h3>Question:</h3>
+            <p>Is there any seasonality in purchases for certain products?</p>
+            
+            <div class="observation">
+                <h3>Observation:</h3>
+                <ul>
+                    <li>ModeCraft has the highest revenue in winter at the beginning of the year.</li>
+                    <li>During this season there were huge spikes in revenue – peaking over 2 million and 1.7 million, respectively.</li>
+                    <li>Other months falter in comparison, hovering around 600K-800K</li>
+                </ul>
             </div>
-
-            <!-- Tableau Visualization Container -->
+            
+            <div class="interpretation">
+                <h3>Interpretation:</h3>
+                <ul>
+                    <li>The peaks in the graph lie in the beginning and end of the year, which could be due to the holiday season</li>
+                    <li>Certain products contribute heavily to these spikes</li>
+                </ul>
+            </div>
+            
+            <div class="conclusion">
+                <h3>Conclusion:</h3>
+                <p>Certain products show clear seasonality, raking up the revenue.</p>
+            </div>
+            
+            <div class="strategy">
+                <h3>Business Strategy proposed:</h3>
+                <ul>
+                    <li>Launch major marketing campaign starting late December (sales promotions, gift cards)</li>
+                    <li>Stock up on top-performing products heavily (like the ones that dominated the charts this year).</li>
+                    <li>Offer limited-time bundles relevant to the top performing product to capitalize on holiday season.</li>
+                </ul>
+                
+            </div>
             <div class="tableau-container">
                 <div class='tableauPlaceholder' id='viz1745729794370' style='position: relative'>
                     <noscript>
@@ -97,6 +106,188 @@
                 </div>
             </div>
         </div>
+    </section>
+    
+    <!-- Analysis 02 - Optimal Store Hours -->
+    <section>
+        <div class="analysis">
+            <h2>ANALYSIS 02</h2>
+            <h3>Optimal Store Hours</h3>
+            
+            <h3>Question:</h3>
+            <p>What are the optimal store operating hours and days?</p>
+            
+            <div class="observation">
+                <h3>Observation:</h3>
+                <ul>
+                    <li>Tuesdays and Thursdays generate the highest revenues, with customer transactions peaking between 10 AM and 1 PM</li>
+                    <li>Stores should prioritize operating between 9 AM and 4 PM, with reduced hours after 5 PM</li>
+                    <li>Sundays have the lowest sales and shouldn't be a major focus for marketing efforts.</li>
+                </ul>
+            </div>
+            
+            <div class="interpretation">
+                <h3>Interpretation:</h3>
+                <ul>
+                    <li>Customers are most active during mid-morning to early afternoon on weekdays</li>
+                    <li>Sundays and late evenings are inefficient operating times</li>
+                </ul>
+            </div>
+            
+            <div class="conclusion">
+                <h3>Conclusion:</h3>
+                <p>Maximizing store operations between 9 AM to 4 PM on high-performing weekdays will drive efficiency and revenue.</p>
+            </div>
+            
+            <div class="strategy">
+                <h3>Business Strategy Proposed:</h3>
+                <ul>
+                    <li>Concentrate staffing and promotions on Tuesdays and Thursdays, especially 10AM - 1PM.</li>
+                    <li>Reduce hours after 5PM and minimize Sunday operations unless targeted promotions are introduced.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Analysis 03 - Geographic Impact -->
+    <section class="light-bg">
+        <div class="analysis">
+            <h2>ANALYSIS 03</h2>
+            <h3>Impact on Sales</h3>
+            
+            <h3>Question:</h3>
+            <p>How does Modecraft's geographic footprint impact sales?</p>
+            
+            <div class="observation">
+                <h3>Observation:</h3>
+                <ul>
+                    <li>Strongest sales concentrations are in North America, Western Europe, Australia, and Brazil</li>
+                    <li>Limited sales presence in Asia, Eastern Europe, and most of Africa</li>
+                </ul>
+            </div>
+            
+            <div class="interpretation">
+                <h3>Interpretation:</h3>
+                <ul>
+                    <li>Modecraft already has a foothold in several mature retail markets.</li>
+                    <li>Emerging markets, particularly in Asia-Pacific, remain largely untapped.</li>
+                </ul>
+            </div>
+            
+            <div class="conclusion">
+                <h3>Conclusion:</h3>
+                <p>There is potential to both consolidate current strongholds and expand into new growth markets.</p>
+            </div>
+            
+            <div class="strategy">
+                <h3>Business Strategy Proposed:</h3>
+                <ul>
+                    <li>Reinforce marketing and customer loyalty programs in North America and Europe</li>
+                    <li>Conduct market research and pilot campaigns in promoting regions like Southeast Asia</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Monthly Report Highlights -->
+    <section>
+        <h2>MONTHLY REPORT ANALYSIS</h2>
+        
+        <h3>Key Metrics:</h3>
+        <ul class="metrics-list">
+            <li>Products that Sold the Most</li>
+            <li>Products that sold the least</li>
+            <li>Products that generated the most revenue</li>
+            <li>Products that generated the least revenue</li>
+            <li>Customers who bought most</li>
+            <li>Most popular days of the week</li>
+            <li>Most popular purchases during the week</li>
+            <li>Ways the store can increase revenue</li>
+            <li>Regions that earned the store the most revenue</li>
+        </ul>
+        
+        <h3>Marketing Channels:</h3>
+        <div class="marketing-channels">
+            <h4>Marketing Channel 1</h4>
+            <p>Further elaborate on the channel.</p>
+            
+            <h4>Marketing Channel 2</h4>
+            <p>Further elaborate on the channel.</p>
+            
+            <h4>Marketing Channel 3</h4>
+            <p>Further elaborate on the channel.</p>
+        </div>
+    </section>
+    
+    <!-- Team Section -->
+    <section class="orange-bg">
+        <h2>METRIC SYSTEM</h2>
+        <p>Our comprehensive approach to data analytics ensures actionable insights for revenue growth.</p>
+        
+        <div class="team-grid">
+            <div class="team-member">
+                <h3>Estelle Darcy</h3>
+                <p>Business Head</p>
+            </div>
+            <div class="team-member">
+                <h3>Reese Miller</h3>
+                <p>Manager</p>
+            </div>
+            <div class="team-member">
+                <h3>Chicki Sato</h3>
+                <p>Marketing Head</p>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Customer Insights -->
+    <section>
+        <h2>CUSTOMER INSIGHTS</h2>
+        
+        <div class="kpi-container">
+            <div class="kpi">
+                <div class="kpi-value">6%</div>
+                <p>Briefly elaborate on the KPI.</p>
+            </div>
+            <div class="kpi">
+                <div class="kpi-value">45%</div>
+                <p>Briefly elaborate on the KPI.</p>
+            </div>
+            <div class="kpi">
+                <div class="kpi-value">75%</div>
+                <p>Briefly elaborate on the KPI.</p>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Conclusion -->
+    <section class="dark-bg">
+        <h2>CONCLUSION & BUSINESS INSIGHTS</h2>
+        
+        <div class="kpi-container">
+            <div class="kpi">
+                <div class="kpi-value">6%</div>
+                <p>Briefly elaborate on the KPI.</p>
+            </div>
+            <div class="kpi">
+                <div class="kpi-value">45%</div>
+                <p>Briefly elaborate on the KPI.</p>
+            </div>
+            <div class="kpi">
+                <div class="kpi-value">75%</div>
+                <p>Briefly elaborate on the KPI.</p>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Footer -->
+    <section class="footer">
+        <h2>THANK YOU</h2>
+        <p>LICERIA & CO.</p>
+        <p>Everest Cantu</p>
+        <p>123-456-7890</p>
+        <p>hello@reallygreatsite.com</p>
+        <p>www.reallygreatsite.com</p>
     </section>
 </body>
 </html>
