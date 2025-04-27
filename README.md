@@ -17,7 +17,7 @@ In this project, we focused on answering three main objectives:
 - **Analyzing optimal sales hours** to recommend more profitable store opening times.
 - **Priortizing high-potential geographic locations and products** for marketing investment through a custom ProductScore metric.
 
-## 🛠Methods and Tools Used
+## Methods and Tools Used
 - Data Processing: Python
 - Data Visualization: Tableau
 - Metric Creation: Custom Formula
